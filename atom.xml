@@ -1,31 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>pozla222的小站</title>
   <icon>https://pozla222.github.io/icon.png</icon>
   
   <link href="https://pozla222.github.io/atom.xml" rel="self"/>
   
   <link href="https://pozla222.github.io/"/>
-  <updated>2021-10-15T12:53:26.352Z</updated>
+  <updated>2021-10-15T14:52:02.716Z</updated>
   <id>https://pozla222.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>pozla222</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>about</title>
+    <link href="https://pozla222.github.io/2021/2TZ88Q3/"/>
+    <id>https://pozla222.github.io/2021/2TZ88Q3/</id>
+    <published>2021-10-15T14:49:44.000Z</published>
+    <updated>2021-10-15T14:52:02.716Z</updated>
+    
+    
+    
+    
+    
+    <category term="about" scheme="https://pozla222.github.io/tags/about/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>archives</title>
+    <link href="https://pozla222.github.io/2021/3H65V1S/"/>
+    <id>https://pozla222.github.io/2021/3H65V1S/</id>
+    <published>2021-10-15T14:49:31.000Z</published>
+    <updated>2021-10-15T14:51:40.404Z</updated>
+    
+    
+    
+    
+    
+    <category term="archives" scheme="https://pozla222.github.io/tags/archives/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>categories</title>
+    <link href="https://pozla222.github.io/2021/XF6HK8/"/>
+    <id>https://pozla222.github.io/2021/XF6HK8/</id>
+    <published>2021-10-15T14:49:04.000Z</published>
+    <updated>2021-10-15T14:51:05.115Z</updated>
+    
+    
+    
+    
+    
+    <category term="categories" scheme="https://pozla222.github.io/tags/categories/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一些想法</title>
     <link href="https://pozla222.github.io/2021/JNDDBT/"/>
     <id>https://pozla222.github.io/2021/JNDDBT/</id>
     <published>2021-10-14T16:57:59.000Z</published>
-    <updated>2021-10-15T12:53:26.352Z</updated>
+    <updated>2021-10-15T14:55:55.259Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;此站仅用于个人学习用，使用hexo部署于github&lt;br&gt;theme为diaspora&lt;br&gt;地址为&lt;a</summary>
+        
+      
     
     
     
     
+    <category term="tags" scheme="https://pozla222.github.io/tags/tags/"/>
     
   </entry>
   
