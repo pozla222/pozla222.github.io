@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>pozla222的小站</title>
+  <title>pozla222website</title>
   <icon>https://pozla222.github.io/icon.png</icon>
   
   <link href="https://pozla222.github.io/atom.xml" rel="self"/>
